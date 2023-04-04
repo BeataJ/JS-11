@@ -15,7 +15,9 @@ let goals = ['javascript','html', 'css'];
 
 // 2) Output ("alert") the three variable values
 
-
+alert(onLineCourse);
+alert(price);
+alert(goals);
 
 // 3) Try "grouping" the three variables together and still output their values thereafter
 // 4) Also output the second element in your "main goals" variable
