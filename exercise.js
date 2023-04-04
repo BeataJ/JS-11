@@ -60,3 +60,6 @@ function custom(array,i) {
 
 let firstItem = custom(goals,0)
 alert(firstItem);
+
+let firstEl1 = custom(newGroup.newGoals,0);
+alert(firstEl1);
