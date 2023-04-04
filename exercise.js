@@ -20,7 +20,13 @@ alert(price);
 alert(goals);
 
 // 3) Try "grouping" the three variables together and still output their values thereafter
+
+let group = [onLineCourse,price,goals];
+alert(group);
+
 // 4) Also output the second element in your "main goals" variable
+
+
 // 5) Add a custom command that does the following:
 //    - Use your "main goals" variable and access an element by its identifier
 //    - The concrete identifier value should be dynamic / flexible 
