@@ -25,7 +25,8 @@ let group = [onLineCourse,price,goals];
 alert(group);
 
 // 4) Also output the second element in your "main goals" variable
-
+let second = goals[1];
+alert(second);
 
 // 5) Add a custom command that does the following:
 //    - Use your "main goals" variable and access an element by its identifier
